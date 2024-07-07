@@ -4,11 +4,11 @@
 I am Elisa, a Full Stack developer with a background in Technical Translation
 
 ## My current stack 💻
-- **Programming Languages**: JavaScript, PHP
-- **Frameworks**: Laravel, Vue.js
+- **Programming Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript), PHP
+- **Frameworks**: Laravel, Vue.js, Bootstrap
 - **Database**: MySQL
 - **Strumenti**: Git
-- **Other**: HTML, CSS, RESTful APIs
+- **Other**: HTML, CSS, Scss, RESTful APIs
 
 ## Contacts 📬
 - **Email**: elisamavilia1@gmail.com, info@emtranslation.se
