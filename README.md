@@ -15,6 +15,7 @@ I am Elisa, a Full Stack developer with a background in Technical Translation
 - **LinkedIn**: [Elisa Mavilia](https://www.linkedin.com/in/elisa-mavilia-a6a0aa150/)
 - **ProZ**: [Elisa Mavilia](https://www.proz.com/translator/2981612)
 ## Statistiche GitHub 📊
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ElisaMavilia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElisaMavilia&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaMavilia&layout=compact&theme=radical)
 
 Thanks for visiting my profile! 😊
