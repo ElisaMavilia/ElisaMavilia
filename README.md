@@ -1,3 +1,5 @@
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
+
 # Welcome 👋
 
 ## Who am I? 🧑‍💻
@@ -19,3 +21,4 @@ I am Elisa, a Full Stack developer with a background in Technical Translation
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaMavilia&layout=compact&theme=radical)
 
 Thanks for visiting my profile! 😊
+ </div>
