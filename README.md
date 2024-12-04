@@ -9,7 +9,6 @@ I am Elisa, a Full Stack developer with a background in Technical Translation
 - **Programming Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php)
 - **Frameworks**: Laravel, Vue.js, Bootstrap
 - **Database**: MySQL
-- **Strumenti**: Git
 - **Other**: HTML, CSS, Scss, RESTful APIs
 
 ## Contacts 📬
